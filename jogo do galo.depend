@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622239802 source:c:\users\tomas\documents\workspace\workspace_cpp\jogo do galo\main.cpp
+	<iostream>
+
+1622301175 source:c:\users\tomas\documents\workspace\workspace_cpp\jogo do galo\apresentacao.cpp
+	<iostream>
+
+1622301183 source:c:\users\tomas\documents\workspace\workspace_cpp\jogo do galo\condicoes.cpp
+	<iostream>
+
